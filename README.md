@@ -1,3 +1,4 @@
-### About this Dataset
+### Hespress COVID-19 Dataset 
+The dataset contains more than 20,000 comments sourced from the prominent news outlet, Hespress. These comments are written in both Modern Standard Arabic (MSA) and Moroccan Dialect (MD). For data collection, we developed a Python crawler using the Selenium library to extract comments from news articles related to the COVID-19 pandemic across various domains, including health, economy, politics, society, and vaccines. The scraping process was conducted during different time frames between March 2020 and December 2022 to ensure comprehensive coverage of the COVID-19 timeline. Comments in languages other than Arabic, such as English, French, or Spanish, were filtered out to retain only Arabic comments. The resulting dataset is stored as a CSV file, containing columns for the publication date, the user's name, and the comment text. 
 
 
